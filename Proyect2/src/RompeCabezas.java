@@ -1,7 +1,7 @@
 
 /**
- * @author Alexander Almengor
- * @ID: 8-923-938
+ * @authors: 
+    Alexander Almengor, Armando Almengor, Cristopher Moreno
  */
 
 import javax.swing.*;
